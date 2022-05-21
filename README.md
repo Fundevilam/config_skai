@@ -10,7 +10,7 @@ Hi! This is the config I usually use (I like to try different stuff from time to
 - The network settings I use on every class
 
 ## Installation
-- 1: I recomend doing a cleanup to reset your tf2 cfg completely and get rid of any commands left by previous configs that might interfear with mine. For that I recomend following the steps on the [Mastercomfig Documentation]([http://discord.huds.tf/](https://docs.mastercomfig.com/latest/setup/clean_up/)
+- 1: I recomend doing a cleanup to reset your tf2 cfg completely and get rid of any commands left by previous configs that might interfear with mine. For that I recomend following the steps on the [Mastercomfig Documentation]([https://docs.mastercomfig.com/latest/setup/clean_up/])
 - 2: After the cleanup drop the files inside my "cfg" folder into your own "cfg" folder and do the same for the custom folder (unless you want to use your own custom files)
 - 3: Launch the game using the launch options **-dxlevel 81 -w 1920 -h 1080 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -console** (remove the "-dxlevel" option after first launch)
 
