@@ -1,7 +1,7 @@
 # config_skai
 Hi! This is the config I usually use (I like to try different stuff from time to time).
 
-Includes:
+## Includes:
 - Graphics config (mastercomfig 9.9.0 with some personal tweaks to enhance visibility specially for sniper)
 - My binds
 - NNull-Canceling Movement script
